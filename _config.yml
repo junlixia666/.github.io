@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 我
     link: /
-  - title: 科研 Research
+  - title：顶
     link: /research.html
-  - title: 论文 Publications
+  - title: 你个肺
     link: /publications.html
