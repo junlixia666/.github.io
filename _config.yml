@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 我
     link: /
-  - title：是
+  - title: 是
     link: /research.html
   - title: good_people
     link: /publications.html
